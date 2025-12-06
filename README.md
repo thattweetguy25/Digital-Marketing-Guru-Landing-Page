@@ -4,7 +4,7 @@ A high-converting, SEO-optimized landing page for digital marketing consultants 
 
 ## 🚀 Live Demo
 
-[View Live Demo](https://your-username.github.io/digital-marketing-guru-landing/)  
+[View Live Demo](https://thattweetguy25.github.io/Digital-Marketing-Guru-Landing-Page/)  
 *(Replace with your actual deployment URL)*
 
 ## ✨ Features
@@ -53,7 +53,7 @@ A high-converting, SEO-optimized landing page for digital marketing consultants 
 1. Fork this repository
 2. Go to Settings > Pages
 3. Select main branch as source
-4. Your site will be live at `https://username.github.io/digital-marketing-guru-landing/`
+4. Your site will be live at `[https://username.github.io/digital-marketing-guru-landing/](https://thattweetguy25.github.io/Digital-Marketing-Guru-Landing-Page/)`
 
 ### Option 2: Netlify (Free)
 1. Drag and drop `index.html` to Netlify dashboard
